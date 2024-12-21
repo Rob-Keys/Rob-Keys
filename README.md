@@ -1,4 +1,4 @@
-I am a 2nd year Computer Science student at the University of Virginia, I am currently working on two projects, a personal website hosting my current work, past projects, and contact information, and a complex app for a Tidbyt 
+I am a second year Computer Science student at the University of Virginia, I am currently working on two personal projects: a website for hosting my current and past work, and a collection of apps for a Tidbyt, to be published and hosted by the Tidbyt company.
 
 📫 E: Rob_Keys@Outlook.com
 
