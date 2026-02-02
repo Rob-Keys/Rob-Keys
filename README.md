@@ -1,4 +1,4 @@
-I am a second year Computer Science student at the University of Virginia, I am currently working on two personal projects: a website for hosting my current and past work, and a collection of apps for a Tidbyt, to be published and hosted by the Tidbyt company.
+I am a third year Computer Science student at the University of Virginia, I currently have accepted a Software Engineering role with AWS, and use GitHub for school and personal projects!
 
 📫 E: Rob_Keys@Outlook.com
 
